@@ -23,8 +23,8 @@ int main()
     string e = compress("COMPROG261102");
     string f = compress("A");
     string g = compress("AB");
-    string h = compress("ABC");
-    string i = compress("ABCD");
+    string h = compress("X");
+    string i = compress("CPECMU");
     
     cout << a << "\n" << b << "\n" << c << "\n" << d << "\n" << e << "\n" << f << "\n" << g << "\n" << h << "\n" << i << "\n";
 
